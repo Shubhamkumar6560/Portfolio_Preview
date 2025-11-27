@@ -5,7 +5,7 @@ It includes project details, features, screenshots, and tech stack information.
 The actual source code is kept **private**, as I am currently developing an upgraded Version 2 with a modern UI/UX.
 
 🚀 **Live Demo:**  
-https://your-netlify-url.netlify.app
+https://darkdev-sk.netlify.app/
 
 ---
 
@@ -38,6 +38,7 @@ This repository contains:
 ## 🛠️ Tech Stack
 
 - **React.js**
+- **Node.js**
 - **JavaScript (ES6+)**
 - **Tailwind CSS**
 - **Netlify** (Deployment)
@@ -89,9 +90,9 @@ Stay tuned!
 
 If you'd like to connect, collaborate, or discuss anything, feel free to reach out:
 
-- **Email:** your-email@example.com  
-- **LinkedIn:** https://linkedin.com/in/your-profile  
-- **GitHub:** https://github.com/your-username  
+- **Email:** shubhamkumar65604@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/shubham-kumar-11866221a/
+- **GitHub:** https://github.com/Shubhamkumar6560 
 
 ---
 
