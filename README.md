@@ -51,11 +51,12 @@ This repository contains:
 
 | Section | Preview |
 |--------|---------|
-| Home | ![](./screenshots/home.png) |
-| About | ![](./screenshots/about.png) |
-| Projects | ![](./screenshots/projects.png) |
-| Contact | ![](./screenshots/contact.png) |
-| Mobile View | ![](./screenshots/mobile.png) |
+| Home | ![](./screenshots/home.jpg) |
+| About | ![](./screenshots/about.jpg) |
+| Skills | ![](./screenshots/skills.jpg) |
+| Projects | ![](./screenshots/projects.jpg) |
+| Contact | ![](./screenshots/contact.jpg) |
+| Mobile View | ![](./screenshots/mobile-view.jpg) |
 
 ---
 
