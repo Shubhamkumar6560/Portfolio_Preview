@@ -6,7 +6,6 @@ The actual source code is kept **private**, as I am currently developing an upgr
 
 🚀 **Live Demo:**  
 https://sktech.space/
-https://darkdev-sk.netlify.app/
 
 ---
 
