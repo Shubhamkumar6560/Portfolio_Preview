@@ -1,17 +1,18 @@
-# 🌐 Portfolio Website — Version 1 (Showcase Only)
+# 🌐 Portfolio Website (Showcase Only)
 
 This repository showcases **Version 1** of my personal portfolio website.  
 It includes project details, features, screenshots, and tech stack information.  
 The actual source code is kept **private**, as I am currently developing an upgraded Version 2 with a modern UI/UX.
 
 🚀 **Live Demo:**  
+https://sktech.space/
 https://darkdev-sk.netlify.app/
 
 ---
 
 ## 📌 Overview
 
-Portfolio V1 is a clean and responsive personal website designed to highlight my skills, experience, and projects as a developer.  
+Portfolio is a clean and responsive personal website designed to highlight my skills, experience, and projects as a developer.  
 This version focuses on simplicity, fast performance, and smooth UI sections.
 
 This repository contains:
@@ -47,8 +48,6 @@ This repository contains:
 
 ## 📷 Screenshots
 
-> Add your screenshots inside the `/screenshots` folder.
-
 | Section | Preview |
 |--------|---------|
 | Home | ![](./screenshots/home.jpg) |
@@ -62,19 +61,17 @@ This repository contains:
 
 ## 🔒 Why is the Code Private?
 
-The source code for Version 1 is intentionally kept private because:
+The source code is intentionally kept private because:
 
-- I am currently building **Version 2** with major improvements  
+- I am currently still building it with major improvements  
 - I want to maintain uniqueness and prevent unauthorized reuse  
 - This repo exists only to **showcase** the project, not share code  
 
-When Version 2 is live, its showcase will also be public (code will still remain private).
-
 ---
 
-## 🚀 Upcoming Version 2 (In Progress)
+## 🚀 Upcoming Updates (In Progress)
 
-Version 2 of my portfolio will include:
+Updated Version of my portfolio will include:
 
 - 🎨 Completely new UI design  
 - 🌙 Dark / Light theme  
